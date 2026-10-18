@@ -1,0 +1,38 @@
+{
+  "antes": {
+    "brillo": 23.5,
+    "contraste": 17.1,
+    "nitidez": 45.9,
+    "tenengrad": 287.6,
+    "entropia": 5.57,
+    "amplitud_rango": 98,
+    "pct_subexpuesto": 80.8,
+    "pct_sobreexpuesto": 0.0,
+    "densidad_bordes": 0.04,
+    "ruido_zona_plana": 1.1
+  },
+  "despues": {
+    "brillo": 42.8,
+    "contraste": 29.2,
+    "nitidez": 70.1,
+    "tenengrad": 1155.9,
+    "entropia": 6.3,
+    "amplitud_rango": 164,
+    "pct_subexpuesto": 28.7,
+    "pct_sobreexpuesto": 0.0,
+    "densidad_bordes": 0.52,
+    "ruido_zona_plana": 0.66
+  },
+  "cambio_pct": {
+    "brillo": 82.1,
+    "contraste": 70.8,
+    "nitidez": 52.7,
+    "tenengrad": 301.9,
+    "entropia": 13.1,
+    "amplitud_rango": 67.3,
+    "pct_subexpuesto": -64.5,
+    "pct_sobreexpuesto": null,
+    "densidad_bordes": 1200.0,
+    "ruido_zona_plana": -40.0
+  }
+}
